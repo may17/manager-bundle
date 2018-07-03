@@ -1,5 +1,5 @@
 {
-    "name": "contao/manager-bundle",
+    "name": "may17/manager-bundle",
     "type": "symfony-bundle",
     "description": "Contao 4 manager bundle",
     "license": "LGPL-3.0-or-later",
